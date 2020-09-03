@@ -2302,6 +2302,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		font-size: 40px;
 	}
 
 		ul.icons li {
@@ -2328,6 +2329,8 @@ input, select, textarea {
 					}
 
 				}
+
+		
 
 /* Table */
 
@@ -2560,6 +2563,7 @@ input, select, textarea {
 			position: relative;
 			text-align: left;
 			width: 50%;
+			text-align: center;
 		}
 
 			.features li:nth-child(1) {
@@ -3996,4 +4000,12 @@ input, select, textarea {
 
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
+	}
+
+	.fab{
+		font-size: 50px;
+	}
+
+	.devicon-rails-plain{
+		font-size: 50px;
 	}
