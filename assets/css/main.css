@@ -140,7 +140,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 1px;
+		/* border-bottom: dotted 1px; */
 		color: inherit;
 		text-decoration: none;
 	}
@@ -4008,4 +4008,30 @@ input, select, textarea {
 
 	.devicon-rails-plain{
 		font-size: 50px;
+	}
+	.devicon-cplusplus-plain{
+		font-size: 50px;
+	}
+
+	.devicon-ruby-plain{
+		font-size: 50px;
+	}
+	.devicon-postgresql-plain{
+		font-size: 50px;
+	}
+	.devicon-amazonwebservices-original{
+		font-size: 50px;
+	}
+	.devicon-css3-plain{
+		font-size: 50px;
+	}
+	.devicon-html5-plain{
+		font-size: 50px;
+	}
+	.devicon-webpack-plain{
+		font-size: 50px;
+	}
+
+	#findmypawrentslogo{
+		width: 30%;
 	}
